@@ -1,5 +1,5 @@
 ---
-title: Kocurek Jekyll Theme Template
+title: Austin Convention Center Operational Policy
 ---
 
-This is the homepage.
+
