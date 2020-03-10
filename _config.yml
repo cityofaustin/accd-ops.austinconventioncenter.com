@@ -32,8 +32,8 @@ collections:
     name: Equipment, Furniture, and Pre-Function Space
     output: true
     section_order: 5
-  elevators:
-    name: Elevators
+  escalators_and_elevators:
+    name: Escalators and Elevators
     output: true
     section_order: 6
   event_planning:
