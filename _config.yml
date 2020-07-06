@@ -9,7 +9,7 @@ random_background_images: 3
 parent_site:
   title: Austin Convention Center
   url: https://www.austinconventioncenter.com
-  logo: "acc-logo.jpg"
+  logo: "acc-logo.png"
 google_analytics: UA-87703455-8
 collections_dir: collections
 collections:
