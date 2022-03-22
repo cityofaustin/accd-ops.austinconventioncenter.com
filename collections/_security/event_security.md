@@ -10,13 +10,12 @@ Clients are responsible for security and safety personnel as required to secure 
 A minimum level of event security and Licensed Peace Officer (LPO) staffing is required during move-in, show hours, and move-out. Special events, such as, but not limited to: concerts, galas, dances, and sporting events will require a more detailed event security staffing plan. The event security staffing plan will be coordinated by the assigned Security Coordinator.
 
 In all cases, event security staffing must have enough personnel to execute the emergency plans developed by the Facilities Security and Safety Division for your show. Relief security staff are required to ensure complete coverage and to ensure other event security guards are given time for breaks and meals.
-                    
+
 Abusive language, disruptive music, threats, assault, vandalism, theft, and other conduct detrimental to the successful staging of an event are grounds for immediate removal from the premises or arrest, depending on the nature of the offense. Solicitation is prohibited.
 
 ### Exhibitor Booth Security
 
-Exhibitors who wish to hire additional event security staff for exhibit booths may do so by filling out the “ACCD Exhibitor Booth Security Order Form” located on the following hyperlink. Please return the form to your assigned Security Coordinator. [Client Security and Safety Guide](https://assets.ctfassets.net/xv1q576gx3e5/3l5PrgWkkOclgdopBpEUCl/cc3b2db174919b20c388367b959af3ec/ACCD_Client_Resources___Safety_Plan_2022.pdf)
-
+Exhibitors who wish to hire additional event security staff for exhibit booths may do so by filling out the "ACCD Exhibitor Booth Security Order Form" located on the following hyperlink. Please return the form to your assigned Security Coordinator. [ACCD Exhibitor Booth Security Order Form](https://assets.ctfassets.net/xv1q576gx3e5/4T8JI7TftmrmMfq70T5iGp/e32f4b8b0d97ff6d2d93c61c0afcf84d/ACCD_Exhibitor_Booth_Security_Form-FY20_Rates.pdf)
 
 ### Event Costume Policy 
 
@@ -39,4 +38,4 @@ Failure to comply with these guidelines may result in removal of the attendee or
 
 ### Liquid, Gas, and Electric Fueled Vehicles/Boats/RV’s and Equipment for Display
 
-In accordance with 2015 International Fire Code Section 314.4, all vehicles, boats, RV’s, and equipment which generate power by the use of a liquid, gas, or electricity must be inspected prior to entering the facility. Please refer to the “Requirements for Fueled Display Vehicles/Boats/RV’s, and Equipment” located on the following hyperlink. [Client Security and Safety Guide](https://assets.ctfassets.net/xv1q576gx3e5/3l5PrgWkkOclgdopBpEUCl/cc3b2db174919b20c388367b959af3ec/ACCD_Client_Resources___Safety_Plan_2022.pdf)
+In accordance with 2015 International Fire Code Section 314.4, all vehicles, boats, RV’s, and equipment which generate power by the use of a liquid, gas, or electricity must be inspected prior to entering the facility. Please refer to the “Requirements for Fueled Display Vehicles/Boats/RV’s, and Equipment” located on the following hyperlink. [Client Security and Safety Guide](https://ops.austinconventioncenter.com/fire_department_regulations/vehicles)
