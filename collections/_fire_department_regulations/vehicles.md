@@ -18,13 +18,11 @@ All vehicles, boats and equipment containing fuel must meet and comply with the 
 - Batteries shall be rendered inoperable. Batteries in liquid and gas fueled vehicles shall be disconnected. Batteries in
 electric vehicles shall be rendered inoperable by the removal of fuses or other approved methods (vehicle boot drive
 wheel) but shall not be required to be disconnected.
-
-All ignition keys must be turned into Event/Show Management prior to departing for the day
-
-- Keys must be individually labeled for easy identification including Exhibitor/Booth number
-- Keys must be readily available on site
-- Keys and/or Key FOBs Shall Not be left in any Electric Vehicle at any time (ACCD discretion)
-- Keys and/or Key FOBs for liquid and gas fueled vehicles used for some display purposes may be required to be
+- All ignition keys must be turned into Event/Show Management prior to departing for the day
+  - Keys must be individually labeled for easy identification including Exhibitor/Booth number
+  - Keys must be readily available on site
+  - Keys and/or Key FOBs Shall Not be left in any Electric Vehicle at any time (ACCD discretion)
+  - Keys and/or Key FOBs for liquid and gas fueled vehicles used for some display purposes may be required to be
 locked inside the vehicle (ACCD discretion)
 
 _All individuals including clients, exhibitors, decorators, contractors, and exhibitor service companies must follow all applicable safety rules and regulations including OSHA and ACCD Operations/Safety guidelines_
