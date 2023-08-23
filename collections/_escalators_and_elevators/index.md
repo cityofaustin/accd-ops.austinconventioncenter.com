@@ -9,4 +9,4 @@ The North Facility Freight Elevator, located on the north dock, provides access 
 
 ### Reference:
 
-[Elevator Dimensions](https://assets.ctfassets.net/xv1q576gx3e5/2z9n2VEPUOqNkDb2nROa3s/b6e411ca0554c61e8b7c12f723b5ec98/ACC_service_elevator_dimensions_2020.pdf)
+[Elevator Dimensions](https://assets.austinconventioncenter.com/2023/Operational Policy Files/ACC_service_elevator_dimensions_2020.pdf)
