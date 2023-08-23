@@ -7,5 +7,5 @@ order: 1
 
 ### References:
 
-- [Freeman Rate Sheet](https://assets.austinconventioncenter.com/2023/Operational Policy Files/Freeman_Event_Technology_ACCD_Structural_Rigging_Pricing.pdf)
+- [Freeman Rate Sheet](https://assets.austinconventioncenter.com/2023/operational-policy-files/Freeman_Event_Technology_ACCD_Structural_Rigging_Pricing.pdf)
 - [Freeman.com](https://www.freeman.com)
