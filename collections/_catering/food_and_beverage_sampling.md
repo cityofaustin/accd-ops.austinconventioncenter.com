@@ -17,8 +17,8 @@ not allowed to be placed directly on table cloth or any other combustible materi
 
 To begin your sampling process, fill out the following form and attain the following permit:
 
-- ACCD Catering – [Sampling Request Form](https://assets.austinconventioncenter.com/2023/operational-policy-files/F_B_Sampling_Form_2020_Kim.pdf) to be submitted to the Catering Manager
-- City of Austin / Travis County Health Department – [Temporary Food Service, Permit to Operate](https://assets.austinconventioncenter.com/2023/operational-policy-files/Operational Permit Application TFE 10-19-22.pdf) (to be completed by show management)
+- ACCD Catering – [Sampling Request Form](https://assets.austinconventioncenter.com/2023/F_B_Sampling_Form_2020_Kim.pdf) to be submitted to the Catering Manager
+- City of Austin / Travis County Health Department – [Temporary Food Service, Permit to Operate](https://assets.austinconventioncenter.com/2023/Operational Permit Application TFE 10-19-22.pdf) (to be completed by show management)
 
 **Things to know and resources for Temporary Food Service Permit to Operate:**
 
@@ -26,6 +26,6 @@ The City of Austin and Travis County Health Department requires the show managem
 
 - [Temporary Food Events Homepage](http://www.austintexas.gov/department/temporary-food-events)
 - Permit to Operate (link to the application to be completed by show management)
-- [How to Set-up a Temporary Food Booth](https://assets.austinconventioncenter.com/2023/operational-policy-files/Temporary Food Requirements 2_7_2022.pdf) (guidelines should be shared with the exhibitors)
+- [How to Set-up a Temporary Food Booth](https://assets.austinconventioncenter.com/2023/Temporary Food Requirements 2_7_2022.pdf) (guidelines should be shared with the exhibitors)
 
 At any time the policies, requirements, and application process may be changed without notice, per the City of Austin and Travis County Health Department. Clients are responsible to communicate and confirm the approval and execution of all Temporary Permits within their contracted space.
