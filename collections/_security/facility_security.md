@@ -11,7 +11,7 @@ A department Incident Commander (IC) is always available and identified based on
 
 ### Emergency Procedures:
 
-Austin Convention Center has evacuation and emergency plans. During your initial visit, or contact via email, your Security Coordinator will provide you with the facilities client Security and Safety Guide. The guide provides essential information regarding Facility Evacuation or Lockdown, Medical Emergency, Power Outage, Weather, and Hazardous Material response. Please take the time to familiarize yourself, your staff, volunteers, exhibitors, and contractors with the security and safety procedures: [Austin Convention Center Rules & Regulations](https://assets.austinconventioncenter.com/2023/ACC_Emergency_Rules.pdf).
+Austin Convention Center has evacuation and emergency plans. During your initial visit, or contact via email, your Security Coordinator will provide you with the facilities client Security and Safety Guide. The guide provides essential information regarding Facility Evacuation or Lockdown, Medical Emergency, Power Outage, Weather, and Hazardous Material response. Please take the time to familiarize yourself, your staff, volunteers, exhibitors, and contractors with the security and safety procedures.
 
 ### Facility Access:
 
