@@ -12,6 +12,6 @@ order: 1
 - [Utilities](https://www.austinconventioncenter.com/exhibit/) – Electrical services, technical services, water, and drainage
 - [Rigging](https://www.austinconventioncenter.com/guidelines-and-resources/) - Freeman Audio Visual is our exclusive rigging vendor and preferred audio visual vendor. 
 
-For details, visit our [Services](https://www.austinconventioncenter.com/guidelines-and-resources/) page.
+For details, visit our [Services](https://www.austinconventioncenter.com/services/) page.
 
 **Additional services include:**
