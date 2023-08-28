@@ -15,7 +15,7 @@ Abusive language, disruptive music, threats, assault, vandalism, theft, and othe
 
 ### Exhibitor Booth Security
 
-Exhibitors who wish to hire additional event security staff for exhibit booths may do so by filling out the "ACCD Exhibitor Booth Security Order Form" located on the following hyperlink. Please return the form to your assigned Security Coordinator: [ACCD Exhibitor Booth Security Order Form](https://assets.austinconventioncenter.com/2023/operational-policy-files/ACCD_Exhibitor_Booth_Security_Form-FY20_Rates.pdf).
+Exhibitors who wish to hire additional event security staff for exhibit booths may do so by filling out the "ACCD Exhibitor Booth Security Order Form" located on the following hyperlink. Please return the form to your assigned Security Coordinator: [ACCD Exhibitor Booth Security Order Form](https://assets.austinconventioncenter.com/2023/ACCD_Exhibitor_Booth_Security_Form-FY20_Rates.pdf).
 
 ### Event Costume Policy 
 
