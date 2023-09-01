@@ -31,7 +31,7 @@ Keys are not available for exhibit hall doors and ballroom doors. A fee will be 
 
 A charge will be assessed for lock changes or interchangeable core locks.
 
-Proximity access cards issued to a client are considered “Keys”. All above conditions noted above apply to proximity access cards. Check the [Equipment and Service Rates](https://assets.austinconventioncenter.com/2023/ACC_Equipment_Services_FY2023.pdf).
+Proximity access cards issued to a client are considered “Keys”. All above conditions noted above apply to proximity access cards. Check the [Equipment and Service Rates](https://assets.austinconventioncenter.com/2023/ACC_Equipment_Services_FY2023_v2.pdf).
 
 All key and proximity access card orders will be ordered through your assigned Event Coordinator.
 
