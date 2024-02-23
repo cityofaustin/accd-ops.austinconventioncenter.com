@@ -1,6 +1,6 @@
 ---
 title: Fire Regulations
-order: 7
+order: 5
 ---
 
 The Client, service contractors and exhibitors must comply with all federal, state, and municipal fire codes that apply to a place of public assembly, as well as Occupational Safety and Health Association (OSHA) regulations.
