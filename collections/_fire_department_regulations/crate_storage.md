@@ -1,6 +1,6 @@
 ---
 title: Crate & Equipment Storage
-order: 5
+order: 3
 ---
 
 Limited crate storage is provided and confined to the area authorized by the AFD Fire Marshal. Crate storage is not allowed in the exhibit halls, meeting rooms, ballrooms, public lobby, or carpeted areas. Crate Storage in the service yard must be approved by your event coordinator and adhere to the following guidelines:
