@@ -1,9 +1,9 @@
 ---
-title: Exhibitor Service Manual
+title: Exhibitor Service Kit
 order: 3
 ---
 
-Austin Convention Center requires the following forms be included in the General Service Contractor’s Exhibitor Service Manual:
+The ACC requires the following forms be included in the Exhibitor Service Manual:
 
 - [Exhibitor Services Online Ordering](https://austincc.ungerboeck.com/prod/ungerboeck.cshtml?AppCode=COE&CC=1&OrgCode=10) [**Freeman Audio/Visual & authorized exhibitors only**]
 - [Booth Security Form](https://assets.austinconventioncenter.com/2023/ACCD_Exhibitor_Booth_Security_Form-FY20_Rates.pdf)
