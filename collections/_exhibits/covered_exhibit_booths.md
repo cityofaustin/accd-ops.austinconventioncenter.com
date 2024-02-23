@@ -9,12 +9,12 @@ Exhibit booths with any type of cover, i.e., tents, canopies, awnings, membrane 
 - b. Exhibitor must provide at least one 2A10BC portable, dry chemical fire extinguisher in each covered structure.
 - c. Adjacent tent/canopy groups consisting of multiple smaller tents may not exceed 400 sq. ft. total covered exhibit space in a group without providing a fire break. (12 foot uncovered exhibit space between tent/canopy groups).
 
-**Exceptions**
+**Exceptions:**
 Structures or areas consisting of only noncombustible construction with wholly noncombustible contents and provided with an approved smoke detector.
 
 ### Exhibit Display Structures
 If a structure exceeding 400 sq. ft. has a roof and is composed of combustible material or has combustible contents, a sprinkler system is required.
 
-**Exceptions**
+**Exceptions:**
 Structures or areas consisting of only noncombustible construction with wholly noncombustible contents and provided with an approved smoke detector.
 
