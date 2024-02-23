@@ -65,7 +65,7 @@ collections:
     output: true
     section_order: 12
   catering:
-    name: Catering
+    name: Food and Beverage
     output: true
     section_order: 13
   freight_and_shipments:
