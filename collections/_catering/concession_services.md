@@ -14,4 +14,5 @@ ACC requires a thirty-by-thirty-foot (30’ x 30’) concession area to service 
 Exhibit floor plans must indicate the thirty-by-thirty-foot (30’ x 30’) areas for concession equipment in each hall. Additional space is required to accommodate seating.
 
 Portable concession stands require access to four (4) floor pockets for power requirements or may require a location near a 208-volt power source.
+
 ACC permanent concession locations may not be blocked at any time.
