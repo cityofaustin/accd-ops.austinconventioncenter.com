@@ -1,6 +1,6 @@
 ---
 title: Open Flames
-order: 8
+order: 9
 ---
 
 Open flames are not permitted in the facility at any time.
