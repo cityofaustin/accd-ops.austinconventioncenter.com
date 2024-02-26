@@ -5,7 +5,7 @@ order: 12
 
 Event security is an exclusive service of the ACC. ACC security personnel (unarmed) patrol all facility perimeters, parking decks, exterior grounds, and public areas. The ACC maintains twenty-four (24) hour building security in the public space and grounds.
 
-The Client is responsible for event staffing to secure licensed premises and support areas from the first contract day to the last contract day. A minimum level of event staffing is required for move-in and move-out, concerts, dances, sporting events etc. The Client is responsible for event security of the areas in the licensed premises of the contract, as well as public areas used for displays, registration and possibly the parking garages.
+The Client is responsible for event staffing to secure licensed premises and support areas from the first contract day to the last contract day. A minimum level of event staffing is required for move-in and move-out, concerts, dances, sporting events etc. The Client is responsible for event security of the areas in the licensed premises of the contract, as well as public areas used for displays, registration and possibly the parking garages. Download the [Security Services & Rates Sheet](https://assets.austinconventioncenter.com/2023/Security_Rate_Sheet_FY2023-24.pdf).
 
 Abusive language, threats, assault, vandalism, theft, and other conduct detrimental to the successful staging of an event are grounds for immediate removal from the premises or arrest, depending on the nature of the offense. Solicitation is prohibited.
 
