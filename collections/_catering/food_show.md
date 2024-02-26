@@ -3,7 +3,7 @@ title: Food Show Requirements
 order: 5
 ---
 
-Exhibitors distributing food and/or beverage at events must obtain a food permit from the City of Austin Health Department and comply with all rules and regulations. Please coordinate this type of activity directly with your Catering Sales Manager/ACC Catering.
+Exhibitors distributing food and/or beverage at events must obtain a food permit from the City of Austin Health Department and comply with all rules and regulations. Please coordinate this type of activity directly with your Catering Sales Manager/ACC Catering. Download the [Exhibitor Guidelines and Regulations for Food and Beverage document](https://assets.austinconventioncenter.com/2024/ACCD-Exhibitor-Sampling-Instructions-and-Guidelines.pdf).
 
 #### No open flame cooking of any type is allowed in exhibit/booth space
 
