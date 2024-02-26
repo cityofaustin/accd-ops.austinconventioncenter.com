@@ -15,7 +15,7 @@ Plans for multi-level exhibits must be reviewed and approved a minimum of ninety
 - Maximum height of the second level floor shall be no more than twelve feet (12’) from the ground floor.
 - All multi-level exhibits must have one (1) 2A10BC fire extinguisher on each level.
 
-Multi-level Booths with occupant load of greater than 9 people on second level:
+### Multi-level Booths with occupant load of greater than 9 people on second level:
 - Minimum 2 egress stairwells from second floor required and located on opposite sides of structure.
 - Construction documents required to be stamped and approved by a Licensed Engineer in the State of Texas. Document required to be submitted to the ACCD Fire Marshal or City of Austin Building Inspector for permit approval.
 - Maximum occupancy of the load bearing area(s) is limited to one (1) person per fifteen net square feet (15nsf) of floor space. The maximum occupancy load of upper level must be posted.
