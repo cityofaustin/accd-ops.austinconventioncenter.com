@@ -1,5 +1,5 @@
 ---
-title: Motorized Equipment
+title: Motorized Equipment, Vehicles and Fuel
 order: 1
 ---
 
