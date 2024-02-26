@@ -1,6 +1,6 @@
 ---
 title: Coat and Baggage Check
-order: 3
+order: 5
 ---
 
-Austin Convention Center may staff a Coat and Baggage Check, contact your Event Coordinator to schedule. Events may also handle coat and baggage checks themselves, if so, we are not responsible for any lost or stolen articles at locations that are not handled by our staff. Coat and baggage check may be set up at the client’s request in areas such as a contracted meeting room that is secured and enclosed.
+ACC can staff a Coat & Baggage Check if needed – contact your Event Coordinator to schedule. Events may also handle coat and baggage checks themselves, but ACC is not responsible for any lost or stolen articles at locations that are not handled by ACC staff. Coat and baggage check can be set up at client request areas with preference being a secure, enclosed area such as a contracted meeting room.
