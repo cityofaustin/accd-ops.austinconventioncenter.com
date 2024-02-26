@@ -1,6 +1,6 @@
 ---
 title: Animals in Exhibits and Events
-order: 2
+order: 3
 ---
 
 The Client assumes full responsibility for any approved animal in the facility. When any approved display includes pens or enclosures containing live animals, the following provisions are required:
