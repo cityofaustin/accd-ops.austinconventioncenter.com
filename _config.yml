@@ -89,7 +89,7 @@ collections:
     output: true
     section_order: 18
   motorized_equipment:
-    name: Motorized Equipment and Vehicles
+    name: Motorized Equipment, Vehicles and Fuel
     output: true
     section_order: 19
   move_in_move_out:
