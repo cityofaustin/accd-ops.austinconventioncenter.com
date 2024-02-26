@@ -3,14 +3,15 @@ title: Trash and Waste Removal
 order: 3
 ---
 
-The Austin Convention Center staff will empty its own trash containers placed throughout both facilities.
+The ACC will empty its own trash containers placed throughout the building.
 
-Clients are responsible for the removal of bulk trash in the meeting rooms, ballrooms, exhibit halls and pre-function space such as registration areas and show office areas during move-in, show and move-out. Bulk trash is deemed as crates, lumber, pallets, packing materials, and any other excessive trash not easily removed by a standard push broom or vacuum. Clients will assess labor charges at the prevailing rate for the removal of bulk trash.
+The Client is responsible for the removal of bulk trash in the meeting rooms, ballrooms, exhibit halls and pre-function space such as registration areas and show office areas during move-in, show and move-out. Bulk trash is defined as boxes, crates, lumber, pallets, packing materials and any other excessive trash not easily removed by a standard push broom or vacuum. The Client will be assessed labor charges at the prevailing rate for the removal of bulk trash.
 
-All Austin Convention Center waste compactors will be locked and only accessible by our staff. Carpet tubes must be cut no longer than two feet (2’) in length to be disposed of in the compost compactor or the cardboard baler.
+All ACC waste compactors will be locked and only accessible by ACC staff. All compost, landfill, recycle, bulk and irregular waste should be placed in large bins provided by ACC staff. All bins will be properly emptied by ACC staff. Carpet tubes must be cut no longer than two feet (2’) in length to be disposed of in the compost compactor or the cardboard baler.
 
-Clean-up of special effect items will be charged to clients at the prevailing rate.
+Clean-up of special effect items such as confetti, balloon drops, etc. will be charged to the Client at the prevailing rate.
 
-Carpet removal is the sole responsibility of the General Service Contractor and all carpet should be removed off-site by the end of the last contract date.
+All carpet should be taken off site by the GSC. ACC will charge labor and disposal fees for hauling any carpet offsite that is left behind after an event at the prevailing rates.
 
-An open top dumpster is required for all non-recyclable goods. Your Event Coordinator will be responsible for determining the number of open top dumpsters required based on the size of your event. The General Service Contractor is responsible for scheduling the delivery and removal of open top dumpsters.
+The ACC is not responsible for open top dumpsters that are ordered by the Client or General Service Contractor.
+
