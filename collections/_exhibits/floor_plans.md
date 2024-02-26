@@ -51,3 +51,5 @@ The Client must arrange for equipment or labor services for exhibit booths, i.e.
 
 Exhibit floor plans require a thirty foot by thirty-foot (30’ x 30’) area for concession equipment in each exhibit hall or exhibit ballroom area. Additional space is required for seating.
 
+Download the facility's floor plans in PDF form [here](https://assets.austinconventioncenter.com/2024/ACC-Building-Dimensions.pdf).
+
