@@ -8,3 +8,5 @@ The ACC has an “open dock” policy. This allows individual exhibitors the rig
 Loading dock bays are allocated according to the event. The facility does not relinquish control of the loading dock during any event.
 
 Your Event Coordinator assigns the dock space(s) for your events. Storage is not allowed on or near the loading dock.
+
+Check out the [Door and Ramp Dimensions document](https://assets.austinconventioncenter.com/2024/Dock-Door-Dimensions.pdf).
