@@ -3,7 +3,7 @@ title: Parking Areas and Shuttle Buses
 order: 1
 ---
 
-Garage parking for the ACC is located at 201 East Second Street (between Brazos and San Jacinto Streets) and at the corner of 5th Street and Red River. Paid parking is a variable rate and payment is collected upon exit of the garages. Unobstructed height clearance throughout the ACC parking garages is six feet, eight inches (6’8”).
+Garage parking for the ACC is located at 201 East Second Street (between Brazos and San Jacinto Streets, link to [Google Maps](https://www.google.com/maps/dir//Parking+garage+for+E+2nd+and+San+Jacinto,+201+E+2nd+St,+Austin,+TX+78701/@30.2635333,-97.744625,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8644b507ee359b09:0xd042d14a76493754!2m2!1d-97.7424309!2d30.2635287!3e0)) and at the corner of 5th Street and Red River (link to [Google Maps](https://www.google.com/maps/dir/30.265344,-97.7313792/601+East+5th+Street,+Austin,+TX/@30.2657916,-97.7385385,16z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x8644b5a604c664b7:0x456ce3291b08003f!2m2!1d-97.7372265!2d30.2653689)). Paid parking is a variable rate and payment is collected upon exit of the garages. Unobstructed height clearance throughout the ACC parking garages is six feet, eight inches (6’8”).
 
 Parking is charged at the prevailing rate on move-in, show and move-out days. Overnight parking is permitted at the ACC garages at the prevailing rate.
 
