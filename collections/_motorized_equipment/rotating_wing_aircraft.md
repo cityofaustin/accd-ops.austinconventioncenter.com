@@ -3,4 +3,4 @@ title: Rotating Wing (Helicopter) Aircraft
 order: 2
 ---
 
-All events with aircraft operations must make a request in writing 60/90 days prior to the first contract date. Certain requirements require written approval and compliance with current policies.
+All events with a related aircraft operation request must be made in writing to the ACC sixty (60) days prior to the first contract date.
