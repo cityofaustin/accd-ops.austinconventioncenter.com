@@ -1,6 +1,6 @@
 ---
 title: Cleaning and Custodial Services
-order: 2
+order: 4
 ---
 
 The ACC provides custodial service for all public areas, restrooms, meeting rooms, and ballrooms (except when used for exhibits) at no cost to the Client. Booth cleaning and aisle vacuuming in any exhibit area is the responsibility of the Client or General Service Contractor. ACC personnel will clean non-carpeted food service areas on show days only. The ACC will empty its trash containers placed in the aisles during show and non-show hours.
