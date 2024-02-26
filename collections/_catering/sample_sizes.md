@@ -11,5 +11,6 @@ The Client and the client’s exhibitors are fully responsible for any and all l
 
 Exhibitors requesting to distribute beer, wine or other alcoholic beverages must contact the in-house food and beverage management company (ACC Catering).
 
+Please reference the [Exhibitor Guidelines and Regulations for Food and Beverage document](https://assets.austinconventioncenter.com/2024/ACCD-Exhibitor-Sampling-Instructions-and-Guidelines.pdf) for more information.
 
 
