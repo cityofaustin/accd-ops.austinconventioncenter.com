@@ -1,6 +1,6 @@
 ---
 title: Paging System
-order: 4
+order: 6
 ---
 
-The facility has zoned paging capabilities inside the exhibit halls. A paging microphone may be installed for show management.
+The facility has zoned paging capabilities inside the Exhibit Halls. A paging microphone can be installed for show management.
