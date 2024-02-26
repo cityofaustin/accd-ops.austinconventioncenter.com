@@ -5,7 +5,7 @@ order: 7
 
 The ACC offers an Incentive Rate to the Client on equipment and services if the assigned Event Coordinator receives all complete event requirements and specifications forty-five (45) days out from the first contract day. Add-ons and change orders received thirty (30) days or less from the first contracted day are charged the Standard Rate.
 
-Complete event requirements include, but are not limited to:
+### Complete event requirements include, but are not limited to:
 
 - a. Event schedule or timeline (agenda)
 - b. Event security
