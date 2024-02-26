@@ -1,5 +1,5 @@
 ---
-title: Services and Amenities
+title: Services
 order: 1
 ---
 
