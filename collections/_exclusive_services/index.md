@@ -3,12 +3,11 @@ title: Exclusive Services
 order: 1
 ---
 
-Exclusive services include:
+ACC exclusive services are:
 
-- [Technical Services](https://www.austinconventioncenter.com/technology/) - Telecommunications and Data Services – internet services, Wi-Fi, telephone capabilities, and digital signage
-- [Catering](https://www.austinconventioncenter.com/catering/) – food and beverage, concessions, and alcohol services
-- [Security and Safety](https://www.austinconventioncenter.com/security-and-safety/) – Unarmed event security, badge checkers, ushers, Licensed Peace Officers (LPO), and Service Yard personnel    
-- [Utilities](https://www.austinconventioncenter.com/exhibit/) – Electrical services, technical services, water, and drainage
-- [Rigging](https://www.austinconventioncenter.com/guidelines-and-resources/) - Freeman Audio Visual is our exclusive rigging vendor at the Austin Convention Center and preferred audio visual vendor.
+- [Food and Beverage](https://www.austinconventioncenter.com/catering/) – catered, concessions, and alcohol services
+- [Security](https://www.austinconventioncenter.com/security-and-safety/) – unarmed event security, badge checkers, ushers, and Licensed Peace Officers (LPO), Service Yard personnel
+- [Telecommunications and Data Services](https://www.austinconventioncenter.com/technology/) - internet services and telephone capabilities
+- [Utilities](https://www.austinconventioncenter.com/exhibit/) – electrical services, technical services, water, and drain
 
 For details, visit our [Services](https://www.austinconventioncenter.com/services/) page.

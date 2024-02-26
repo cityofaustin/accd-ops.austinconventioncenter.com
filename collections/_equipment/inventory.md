@@ -1,6 +1,6 @@
 ---
 title: Inventory
-order: 4
+order: 5
 ---
 
-Equipment is maintained to accommodate simultaneous events. Clients are responsible to obtain and provide labor to set up and dismantle equipment beyond the inventory of the Austin Convention Center. It is important to provide your Event Coordinator or Sales Representative with all the event information and equipment needs as soon as possible to ensure the facility has the necessary items for your event.
+Equipment is maintained to accommodate simultaneous events and is assigned on a first-come, first-serve basis. Equipment and furnishings beyond the inventory of the ACC are the responsibility of the Client to obtain and provide labor to set and dismantle. It is important to provide your Event Coordinator or Sales Representative with all the event information and equipment needs as soon as possible to ensure the facility has the necessary items for your event. The Client will be billed for rental of equipment and labor to set the equipment needed to meet event requirements if the ACC secures the additional equipment.

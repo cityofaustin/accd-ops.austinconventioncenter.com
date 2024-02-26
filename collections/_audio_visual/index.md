@@ -1,11 +1,9 @@
 ---
-title: Rigging/Audio Visual
+title: Audio Visual
 order: 1
 ---
 
-[Freeman Audio Visual](https://www.freeman.com/solutions/by-expertise/event-technology/production-technology) is our exclusive rigging vendor and preferred audio visual (AV) vendor for the Austin Convention Center. Audio patches are available through your Event Coordinator.
+The ACC currently has the preferred audio visual contractor ([Freeman Audio Visual](https://www.freeman.com/solutions/by-expertise/event-technology/production-technology)) for your audio visual equipment and operator needs. Electrical and audio patches are only included through with the use of the ACC preferred audio visual company. Download the [Freeman Rate Sheet](https://assets.austinconventioncenter.com/2023/Freeman_Event_Technology_ACCD_Structural_Rigging_Pricing.pdf).
 
-### References:
+Use of the built-in AV equipment in the Austin Suite is an exclusive service to the facility and must be contracted with your Event Coordinator or Sales Representative.
 
-- [Freeman Rate Sheet](https://assets.austinconventioncenter.com/2023/Freeman_Event_Technology_ACCD_Structural_Rigging_Pricing.pdf)
-- [Freeman.com](https://www.freeman.com)

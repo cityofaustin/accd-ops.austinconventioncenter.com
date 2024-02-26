@@ -15,4 +15,3 @@ Exhibit booths with any type of cover, i.e., tents, canopies, awnings, membrane 
 If a structure exceeding 400 sq. ft. has a roof and is composed of combustible material or has combustible contents, a sprinkler system is required.
 
 *Exceptions: Structures or areas consisting of only noncombustible construction with wholly noncombustible contents and provided with an approved smoke detector.*
-
